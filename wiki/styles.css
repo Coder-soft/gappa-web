@@ -91,3 +91,22 @@ footer {
 .command p {
     margin: 0.5rem 0;
 }
+.div {
+    text-align: left;
+    border: 1px solid #ffffff;
+    padding: 0.5rem;
+    border-radius: 5px;
+    margin-bottom: 1rem;
+}
+.div h2 {
+    color: #e24a4a;
+}
+.div h3 {
+    color: #e24a4a;
+}
+.div p {
+    margin: 0.5rem 0;
+}
+.div strong {
+    color: #e24a4a;
+}
